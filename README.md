@@ -7,3 +7,7 @@ https://www.dropbox.com/s/5pmp1sd9cug6o55/Invector_InventoryPro_2.5.unitypackage
 
 It causes errors for recent invector (3).
 This unity package is modified to fix them.
+
+
+add vThirdPersonControllerPlayer to vThirdPersonController gameobject.
+
