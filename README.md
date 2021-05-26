@@ -30,4 +30,5 @@ The following images shows the inventory pro and invector integration example.
 
 
 
+![スクリーンショット (1)](https://user-images.githubusercontent.com/34733747/119601213-a9647d00-be23-11eb-9fb0-eadf6e4a54e0.png)
 
