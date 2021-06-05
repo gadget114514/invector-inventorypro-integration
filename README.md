@@ -32,11 +32,11 @@ The following images shows the inventory pro and invector integration example.
 
 # Alternative inventory pro + UMA2 integration
 
-it is UMA2 recipe based integration; it looks easier than implemented in inventory-pro integration.
+this is UMA2 recipe based integration; it looks easier than implemented in inventory-pro integration.
 
-1. extract InventoryProUMA2.zip
-2. it extends EquippableInventoryItem; xetype and xename; they are used for "slot" and "name" each.
-3. Create EquippableInventoryItem with xetype and xename, if it is UMA2 item.
+1. extract InventoryProUMA2.zip (two files)
+2. it extends EquippableInventoryItem; xetype and xename; they are used for "slot" and "name" each. ; if your class EquippableInventoryItem is not declared as partial, change it it to partial.
+3. Create EquippableInventoryItem with xetype and xename in main item database editor, if it is UMA2 item.
 4. use UMA2CharacterEquipmentHandler instead of CharacterEquipmentHandler;  (create asset and use it in InventoryPlayer component)
 
 Maybe this implementation impacts minimum to existed sources.
