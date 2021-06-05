@@ -1,4 +1,4 @@
-# invector-inventorypro-integration
+# invector-inventorypro-integration (+ UMA2)
 Invector and Inventory Pro integration
 
 https://invector.proboards.com/thread/692/inventory-pro-2-5
